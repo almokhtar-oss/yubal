@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Deploy to Railyard](https://app.railyard.run/deploy/badge)](https://app.railyard.run/deploy?repo=https://github.com/guillevc/yubal)
+
 # yubal
 
 Self-hosted YouTube Music downloader. Paste a link, get a tagged, organized library.
